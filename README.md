@@ -1,5 +1,7 @@
 # Wireless-sensor-Network-Indoor-Localization
 
+Refer **Project Paper 2.docx** for the project information.
+
 NOTE:- Use Google colab to run the Experiments/code. 
 
 #Experiment 1 - This folder contains single .py file for experiment 1.
